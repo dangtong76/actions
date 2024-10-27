@@ -1,1 +1,1 @@
-echo "good bye"
+echo "Goodbye"
